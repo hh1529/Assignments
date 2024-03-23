@@ -1,0 +1,6 @@
+h=("harsh","jahs",5,44,454)
+print(type(h))
+print(h)
+j=str(h)
+print(type(j))
+print(j)

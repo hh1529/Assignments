@@ -1,0 +1,10 @@
+d={
+    "harsh":1,
+    "sj":2
+}
+f={
+    "jsb":4,
+    "dd":8
+}
+z=d.update(f)
+print(d)

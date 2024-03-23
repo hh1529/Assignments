@@ -1,0 +1,15 @@
+1.What is Software?
+Ans : the software is basically a set of instructions or commands that tell a computer what to do. In other words, the software is a computer program that provides a set of instructions to execute a user’s commands and tell the computer what to do.
+
+2.What are the types of Applications?
+Ans :   1. Word Processing Software
+	2. Presentation Software
+	3. Web Browsers
+	4. Graphics Software
+	5. Educational Software
+
+3.What is programming?
+Ans :  programming is the process of writing code to facilitate specific actions in a computer, application or software program, and instructs them on how to perform.
+
+4.What is Python?
+Ans : Python is a Object Oriented Language and It is very easy to use.python also work on different platforms. python is case sensitive and easy to use basic syntaxes.it was very useful for web application  

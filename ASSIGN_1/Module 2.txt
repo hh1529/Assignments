@@ -1,0 +1,10 @@
+1 . How memory is managed in Python?
+Ans : Python uses a garbage collector to periodically scan the memory and identify any objects that have a reference count of zero. The garbage collector then deletes these objects from memory.
+
+ 
+2 . What is the purpose continue statement in python?
+Ans : Python continue keyword is used to skip the remaining statements of the current loop and go to the next iteration. In Python, loops repeat processes on their own in an efficient way.
+
+
+3 . What are negative indexes and why are they used?
+Ans : Negative Indexes is positon of element which is present and end or count it from the end      .it is used when we have to print the string from the end.

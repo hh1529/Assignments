@@ -1,0 +1,13 @@
+1. What is List? How will you reverse a list? 
+Ans. A List is a data structure. that is mutable , is a ordered , and allow Duplicates.             we will reverse a list by using reverse() method.
+
+2. Differentiate between append () and extend () methods?
+Ans. append() is used to add an item in a list , and used to add a single element at the last of the list. Extend() is used  to add an item in a list , and used to add a whole list and tuple in the list.
+
+3.  Why Do You Use the Zip () Method in Python?
+Ans. Zip() method   is used to combine two or more list into a single list and tuple.
+
+4.  How Many Basic Types Of Functions Are Available In Python?
+Ans. There Are two Types of Functions in python : 1 user defined Function 2 Built in Function
+
+5. 
